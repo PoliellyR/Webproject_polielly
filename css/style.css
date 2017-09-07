@@ -1,5 +1,5 @@
 h1{
-  color:red;
+  color:PINK;
 }
 
 #maintitle{
@@ -16,5 +16,17 @@ h1{
 .bd2{
 background-image: url("../images/brownies.jpg");
   background-repeat: no-repeat;
+background-size: cover;
+}
+
+.bd3{
+background-image: url("../images/brownies.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+.bd4{
+background-image: url("../images/sokolatopita.jpg");
+background-repeat: no-repeat;
 background-size: cover;
 }
